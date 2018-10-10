@@ -1,12 +1,14 @@
-
-
-### Аргументы для запуска утилиты
+### Synopsys
+```bash
+mytop [options] [args]
+```
+### опции для запуска утилиты
 <d>
   <details>
   
-| ***short*** | ***long*** | ***Description*** |
+| ***short*** | ***long*** | ***$arguments$ and Description*** |
 |---|---|---|
-| <b>-b</b> | <b>--batch</b> or<br> <b>--batchmode</b> |одноразово запускает показ монитора, как выполниить top через screen|
+| <b>-b</b> | <b>--batch</b> or<br> <b>--batchmode</b> |одноразово рисует показ монитора, как выполниить top через screen|
 |  | <b>--color</b> or<br> <b>--nocolor</b> |highlight вывод или нет  |
 | <b>-d</b> | <b>--db</b> or<br> <b>--database</b> |$database$ - выбор базы данных|
 | <b>-h</b> | <b>--host</b> |$hostname$:$port$ - испольовать Hostname, default - localhost  |

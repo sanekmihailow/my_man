@@ -6,7 +6,7 @@ mytop [options] [args]
 <d>
   <details>
   
-| ***short*** | ***long*** | ***$arguments$ and Description*** |
+| ***option short*** | ***option long*** | ***$arguments$ and Description*** |
 |---|---|---|
 | <b>-b</b> | <b>--batch</b> or<br> <b>--batchmode</b> |одноразово рисует показ монитора, как выполниить top через screen|
 |  | <b>--color</b> or<br> <b>--nocolor</b> |highlight вывод или нет  |

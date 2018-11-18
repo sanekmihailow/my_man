@@ -4,7 +4,7 @@ manuals and examples
 ```bash
 <example> - пример без знака
 Например:
-mysql -u root -p -d <database> < $example$.sql
+mysql -u root -p -d <database> < <example>.sql
 выглядит как
 mysql -u root -p -d inno_DB < inno.sql
 ```

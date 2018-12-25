@@ -2,7 +2,7 @@
 manuals and examples
 
 ```bash
-<example> - пример без знака
+<example> - пример без знаков <>
 Например:
 mysql -u root -p -d <database> < <example>.sql
 выглядит как
